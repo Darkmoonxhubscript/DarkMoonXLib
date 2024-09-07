@@ -1,5 +1,5 @@
 local Themes = {
-  ["Defalt"] = {
+  ["Default"] = {
     ["Color Hub 1"] = Color3.fromRGB(18, 18, 18),
     ["Color Hub 2"] = Color3.fromRGB(25, 25, 25),
     ["Color Theme"] = Color3.fromRGB(30, 150, 240),
