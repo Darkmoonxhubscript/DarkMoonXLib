@@ -173,7 +173,19 @@ Toggle Functions
   end)
 ]]
 ```
-
+## TextBox
+Create a TextBox
+```lua
+Tab:AddTextBox({
+  Name = "TextBox : ",
+  Default = "1",
+  PlaceholderText = "Enter a Number",
+  ClearText = true,
+  Callback = function(Value)
+  
+  end
+})
+```
 ## Dropdown
 Create a Dropdown
 ```lua
