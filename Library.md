@@ -1,7 +1,7 @@
 # redz Library V4 (DarkMoon Version)
 ## Library loadstring
 ```lua
-local DarkLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/RedzLibV4/main/Source.lua"))()
+local DarkLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkmoonxhubscript/DarkMoonXLib/main/Source.lua"))()
 ```
 
 library functions
