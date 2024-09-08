@@ -8,7 +8,7 @@ local Themes = {
     ["Color Stroke"] = Color3.fromRGB(80, 80, 80),
     ["Corner Radius"] = UDim.new(0, 5),
     ["Font"] = {
-      Enum.Font.GothamBlack,
+      Enum.Font.Cartoon,
       Enum.Font.GothamBold,
       Enum.Font.GothamMedium
     },
@@ -24,7 +24,7 @@ local Themes = {
     ["Color Stroke"] = Color3.fromRGB(200, 200, 200),
     ["Corner Radius"] = UDim.new(0, 5),
     ["Font"] = {
-      Enum.Font.SourceSans,
+      Enum.Font.Cartoon,
       Enum.Font.SourceSansBold,
       Enum.Font.SourceSansLight
     },
@@ -40,28 +40,12 @@ local Themes = {
     ["Color Stroke"] = Color3.fromRGB(120, 0, 180),
     ["Corner Radius"] = UDim.new(0, 5),
     ["Font"] = {
-      Enum.Font.FredokaOne,
+      Enum.Font.Cartoon,
       Enum.Font.GothamBold,
       Enum.Font.GothamMedium
     },
     ["Stroke Thickness"] = 1,
     ["Tween Style"] = Enum.EasingStyle.Bounce
-  },
-  ["Amoled"] = {
-    ["Color Hub 1"] = Color3.fromRGB(0, 0, 0),
-    ["Color Hub 2"] = Color3.fromRGB(10, 10, 10),
-    ["Color Theme"] = Color3.fromRGB(0, 255, 100),
-    ["Color Text"] = Color3.fromRGB(255, 255, 255),
-    ["Color Dark Text"] = Color3.fromRGB(150, 150, 150),
-    ["Color Stroke"] = Color3.fromRGB(20, 20, 20),
-    ["Corner Radius"] = UDim.new(0, 5),
-    ["Font"] = {
-      Enum.Font.GothamBlack,
-      Enum.Font.GothamBold,
-      Enum.Font.GothamMedium
-    },
-    ["Stroke Thickness"] = 1,
-    ["Tween Style"] = Enum.EasingStyle.Sine
   },
   ["Ocean"] = {
     ["Color Hub 1"] = Color3.fromRGB(0, 50, 100),
@@ -72,7 +56,7 @@ local Themes = {
     ["Color Stroke"] = Color3.fromRGB(0, 100, 180),
     ["Corner Radius"] = UDim.new(0, 5),
     ["Font"] = {
-      Enum.Font.FredokaOne,
+      Enum.Font.Cartoon,
       Enum.Font.GothamBold,
       Enum.Font.GothamMedium
     },
@@ -88,7 +72,7 @@ local Themes = {
     ["Color Stroke"] = Color3.fromRGB(255, 120, 120),
     ["Corner Radius"] = UDim.new(0, 5),
     ["Font"] = {
-      Enum.Font.Antique,
+      Enum.Font.Arcade,
       Enum.Font.GothamBold,
       Enum.Font.GothamMedium
     },
