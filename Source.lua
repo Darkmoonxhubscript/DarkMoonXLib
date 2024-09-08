@@ -732,7 +732,7 @@ function redzLib:MakeWindow(Configs)
     if not WaitMinimize then
       WaitMinimize = true
       Window.Dialog:Create({
-        Title = "Are you sure you want to close this script??",
+        Title = "You Want Close DarkMoonHub?",
         Confirm = {
           Text = "Close",
           Callback = function()
@@ -2112,7 +2112,7 @@ function redzLib:MakeWindow(Configs)
         Size = UDim2.new(1, -24, 0, 25),
         AnchorPoint = Vector2.new(0.5, 1),
         Position = UDim2.new(0.5, 0, 1, -8),
-        Text = "Join",
+        Text = "Join Server",
         Font = Enum.Font.GothamBold,
         TextSize = 15,
         TextColor3 = Color3.fromRGB(220, 220, 220),
@@ -2126,7 +2126,7 @@ function redzLib:MakeWindow(Configs)
         setclipboard(DiscordLink)
         if not JoinClick then
           JoinClick = true
-          JoinButton.Text = "Copied to Clipboard"
+          JoinButton.Text = "Copied Link!"
           JoinButton.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
           JoinButton.TextColor3 = Color3.fromRGB(150, 150, 150)
           task.wait(5)
