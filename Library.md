@@ -1,4 +1,4 @@
-# redz Library V4 (DarkMoon Version)
+# DarkMoon Lib
 ## Library loadstring
 ```lua
 local DarkLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkmoonxhubscript/DarkMoonXLib/main/Source.lua"))()
@@ -6,7 +6,7 @@ local DarkLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkm
 
 library functions
 ```lua
-DarkLib:settheme("theme Name") -- https://raw.githubusercontent.com/REDzHUB/RedzLibV4/main/Themes.lua
+DarkLib:settheme("theme Name") --https://github.com/Darkmoonxhubscript/DarkMoonXLib/blob/main/Themes.lua
 
 DarkLib:SetTransparency(0.1) -- 0, 1
 
