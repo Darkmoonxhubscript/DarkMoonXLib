@@ -8,7 +8,7 @@ local Themes = {
     ["Color Stroke"] = Color3.fromRGB(80, 80, 80),
     ["Corner Radius"] = UDim.new(0, 5),
     ["Font"] = {
-      Enum.Font.Cartoon,
+      Enum.Font.GothamBlack,
       Enum.Font.GothamBold,
       Enum.Font.GothamMedium
     },
@@ -24,7 +24,7 @@ local Themes = {
     ["Color Stroke"] = Color3.fromRGB(200, 200, 200),
     ["Corner Radius"] = UDim.new(0, 5),
     ["Font"] = {
-      Enum.Font.Cartoon,
+      Enum.Font.GothamBlack,
       Enum.Font.SourceSansBold,
       Enum.Font.SourceSansLight
     },
@@ -40,7 +40,7 @@ local Themes = {
     ["Color Stroke"] = Color3.fromRGB(120, 0, 180),
     ["Corner Radius"] = UDim.new(0, 5),
     ["Font"] = {
-      Enum.Font.Cartoon,
+      Enum.Font.GothamBlack,
       Enum.Font.GothamBold,
       Enum.Font.GothamMedium
     },
@@ -56,7 +56,7 @@ local Themes = {
     ["Color Stroke"] = Color3.fromRGB(0, 100, 180),
     ["Corner Radius"] = UDim.new(0, 5),
     ["Font"] = {
-      Enum.Font.Cartoon,
+      Enum.Font.GothamBlack,
       Enum.Font.GothamBold,
       Enum.Font.GothamMedium
     },
@@ -72,7 +72,7 @@ local Themes = {
     ["Color Stroke"] = Color3.fromRGB(255, 120, 120),
     ["Corner Radius"] = UDim.new(0, 5),
     ["Font"] = {
-      Enum.Font.Arcade,
+      Enum.Font.GothamBlack,
       Enum.Font.GothamBold,
       Enum.Font.GothamMedium
     },
