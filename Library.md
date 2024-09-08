@@ -260,10 +260,10 @@ Window:AddMinimizeButton({
   UICorner = {true,
     CornerRadius = UDim.new(0.5, 0)
   },
-  UIStroke = {false, {
-  Color = Color3.FromRGB(255, 255, 255)
+  UIStroke = {false,
+  Color = Color3.FromRGB(255, 255, 255),
   Thickness = 2
-  }}
+  }
 })
 ```
 Create a `Dialog`
