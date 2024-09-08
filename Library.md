@@ -241,7 +241,7 @@ Slider Functions
 ```
 
 ## Extra
-Create a Discord Invite
+Create a `Discord Invite`
 ```lua
 Tab:AddDiscordInvite({
   DiscordTitle = "DarkMoon Community",
@@ -251,7 +251,7 @@ Tab:AddDiscordInvite({
 })
 ```
 
-Create a Minimize Button
+Create a `Minimize Button`
 ```lua
 Window:AddMinimizeButton({
   Button = {
@@ -263,4 +263,19 @@ Window:AddMinimizeButton({
   UIStroke = {false, {
   }}
 })
+```
+Create a `Dialog`
+```lua
+Window.Dialog:Create({
+        Title = "Dialog",
+        Confirm = {
+          Text = "Confirm",
+          Callback = function()
+          
+          end
+        },
+        Cancel = {
+          Cancel = "Cancel"
+        }
+      })
 ```
